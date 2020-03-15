@@ -11,3 +11,4 @@ We modified the object detection demo in Tensorflow Lite to enable an Android sm
 * Haoxin Wang, BaekGyu Kim, Jiang Xie, and Zhu Han, "How is Energy Consumed in Smartphone Deep Learning Apps? Executing Locally vs. Remotely," in *Proc. IEEE Global Communications Conference (GLOBECOM 2019),* Waikoloa, HI, Dec. 2019, pp.1-6. (https://doi.org/10.1109/GLOBECOM38437.2019.9013647)
 
 # Processing pipeline at the client side
+![]()
